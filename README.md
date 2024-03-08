@@ -59,6 +59,8 @@ celui-ci va installer les librairies nécessaire pour l'éxecution du script san
 
 - [@akirasanthakumaran](https://github.com/Akira98000/) - Développeur
 
+- [@lorispensa](https://github.com/lorispensa/) - Développeur
+
 - [@PhanSayam](https://github.com/PhanSayam) - Développeur
 
 - [@Ti21l](https://github.com/Ti21l) - Développeur
